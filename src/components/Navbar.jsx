@@ -3,7 +3,7 @@ export default function Navbar() {
     <>
       <header>
         <nav
-          className="navbar navbar-expand-lg navbar-fixed-top w-100 justify-content-evenly"
+          className="navbar navbar-expand-lg fixed-top w-100 justify-content-evenly"
           style={{ fontSize: "12px" }}
         >
           <div>Logo</div>
