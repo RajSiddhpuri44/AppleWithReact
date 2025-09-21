@@ -1,0 +1,7 @@
+.header-main {
+  position: relative;
+  z-index: 100;
+}
+.options-collection {
+  height: 70vh;
+}
